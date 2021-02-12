@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/dklangevin.github.io/static/css/main.0ceb4e87.chunk.css",
-    "main.js": "/dklangevin.github.io/static/js/main.f98190be.chunk.js",
-    "main.js.map": "/dklangevin.github.io/static/js/main.f98190be.chunk.js.map",
-    "runtime-main.js": "/dklangevin.github.io/static/js/runtime-main.03b75a54.js",
-    "runtime-main.js.map": "/dklangevin.github.io/static/js/runtime-main.03b75a54.js.map",
-    "static/js/2.394afdbb.chunk.js": "/dklangevin.github.io/static/js/2.394afdbb.chunk.js",
-    "static/js/2.394afdbb.chunk.js.map": "/dklangevin.github.io/static/js/2.394afdbb.chunk.js.map",
-    "static/js/3.b1490edb.chunk.js": "/dklangevin.github.io/static/js/3.b1490edb.chunk.js",
-    "static/js/3.b1490edb.chunk.js.map": "/dklangevin.github.io/static/js/3.b1490edb.chunk.js.map",
-    "index.html": "/dklangevin.github.io/index.html",
-    "static/css/main.0ceb4e87.chunk.css.map": "/dklangevin.github.io/static/css/main.0ceb4e87.chunk.css.map",
-    "static/js/2.394afdbb.chunk.js.LICENSE.txt": "/dklangevin.github.io/static/js/2.394afdbb.chunk.js.LICENSE.txt",
-    "static/media/portrait.ab9f7bc5.png": "/dklangevin.github.io/static/media/portrait.ab9f7bc5.png",
-    "static/media/App.css": "/dklangevin.github.io/static/media/sunset_tree.91a538dc.jpeg"
+    "main.css": "/dannylangevin/static/css/main.89b70d76.chunk.css",
+    "main.js": "/dannylangevin/static/js/main.f98190be.chunk.js",
+    "main.js.map": "/dannylangevin/static/js/main.f98190be.chunk.js.map",
+    "runtime-main.js": "/dannylangevin/static/js/runtime-main.075adc92.js",
+    "runtime-main.js.map": "/dannylangevin/static/js/runtime-main.075adc92.js.map",
+    "static/js/2.394afdbb.chunk.js": "/dannylangevin/static/js/2.394afdbb.chunk.js",
+    "static/js/2.394afdbb.chunk.js.map": "/dannylangevin/static/js/2.394afdbb.chunk.js.map",
+    "static/js/3.b1490edb.chunk.js": "/dannylangevin/static/js/3.b1490edb.chunk.js",
+    "static/js/3.b1490edb.chunk.js.map": "/dannylangevin/static/js/3.b1490edb.chunk.js.map",
+    "index.html": "/dannylangevin/index.html",
+    "static/css/main.89b70d76.chunk.css.map": "/dannylangevin/static/css/main.89b70d76.chunk.css.map",
+    "static/js/2.394afdbb.chunk.js.LICENSE.txt": "/dannylangevin/static/js/2.394afdbb.chunk.js.LICENSE.txt",
+    "static/media/portrait.ab9f7bc5.png": "/dannylangevin/static/media/portrait.ab9f7bc5.png",
+    "static/media/App.css": "/dannylangevin/static/media/sunset_tree.91a538dc.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.03b75a54.js",
+    "static/js/runtime-main.075adc92.js",
     "static/js/2.394afdbb.chunk.js",
-    "static/css/main.0ceb4e87.chunk.css",
+    "static/css/main.89b70d76.chunk.css",
     "static/js/main.f98190be.chunk.js"
   ]
 }
