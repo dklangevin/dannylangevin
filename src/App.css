@@ -70,6 +70,10 @@ li.active {
   background: rgba(150, 150, 150, 0.3);
 }
 
+li:hover {
+  background: rgba(150, 150, 150, 0.1);
+}
+
 li.active a {
   text-decoration: none;
   color: white;
