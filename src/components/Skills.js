@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import Skill from "./Skill";
 
 class Skills extends Component {
   constructor(props) {
@@ -18,8 +19,6 @@ class Skills extends Component {
         "Mathematica",
         "Agile",
         "JIRA",
-      ],
-      workingSkills: [
         "Javascript",
         "Perl",
         "Ada",
@@ -31,16 +30,12 @@ class Skills extends Component {
   render() {
     return (
       <div className="condiv skills">
-        <h1 className="subtopic">Strong Skills</h1>
+        <h1 className="subtopic">Skills</h1>
         <ul>
           {this.state.strongSkills.map((value) => {
-            return <li>{value}</li>;
-          })}
-        </ul>
-        <h1 className="subtopic">Working Knowledge Skills</h1>
-        <ul>
-          {this.state.workingSkills.map((value) => {
-            return <li>{value}</li>;
+            return (
+              <Skill name={value}/>
+            );
           })}
         </ul>
       </div>
